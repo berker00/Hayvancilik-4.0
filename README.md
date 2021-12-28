@@ -12,3 +12,8 @@ DATASHEET :
 
 
    ![raspberrypidatasheet](https://user-images.githubusercontent.com/68822081/147595736-d6292720-5a37-4042-ae5b-524437531742.png)
+   
+
+Code Analysis:
+
+![onemli2](https://user-images.githubusercontent.com/68822081/147595854-c4bd3f38-6e5d-4890-8f6e-c3431b2b46ff.jpg)
