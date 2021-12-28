@@ -24,7 +24,7 @@ Code Analysis:
 
 360 CAMERA BASE VIDEO :
 
-![BASEVIDEO](https://www.youtube.com/watch?v=QWXnBuaDzws)
+https://www.youtube.com/watch?v=QWXnBuaDzws
 
 SYSTEM 3D DRAW :
 
