@@ -17,3 +17,10 @@ DATASHEET :
 Code Analysis:
 
 ![onemli2](https://user-images.githubusercontent.com/68822081/147595854-c4bd3f38-6e5d-4890-8f6e-c3431b2b46ff.jpg)
+
+360 CAMERA BASE 
+
+![camboyut](https://user-images.githubusercontent.com/68822081/147595964-907e282a-36d8-4137-b040-3aa4ce8afcef.png)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QWXnBuaDzws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
