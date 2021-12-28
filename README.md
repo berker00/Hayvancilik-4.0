@@ -30,3 +30,9 @@ SYSTEM 3D DRAW :
 
 ![system](https://user-images.githubusercontent.com/68822081/147596738-0c48178a-01f5-41cd-98a8-71e8c91711d3.png) 
 
+HAARCASCADE FORMULA :
+
+![haarcascade formul](https://user-images.githubusercontent.com/68822081/147596970-af4f23a8-d817-4ac0-b3a9-3bb3352c1e08.png)
+
+
+
